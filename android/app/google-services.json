@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1024455168138",
+    "firebase_url": "https://robotic-storage-default-rtdb.firebaseio.com",
+    "project_id": "robotic-storage",
+    "storage_bucket": "robotic-storage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024455168138:android:d92f7a4edbe4263880dd73",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024455168138-l4dukn9lt917774shdg3v87vhs3mg1ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGOqxzatm9mg1n-QSpBb3Hjk0JBMiI_oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024455168138-l4dukn9lt917774shdg3v87vhs3mg1ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024455168138:android:6e75b9c6371b7b3880dd73",
+        "android_client_info": {
+          "package_name": "github.vladd11.ccstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024455168138-l4dukn9lt917774shdg3v87vhs3mg1ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGOqxzatm9mg1n-QSpBb3Hjk0JBMiI_oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024455168138-l4dukn9lt917774shdg3v87vhs3mg1ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
