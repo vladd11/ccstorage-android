@@ -1,3 +1,5 @@
+// By https://github.com/zxing-cpp/zxing-cpp
+
 #include "common.h"
 #include "zxing-cpp/core/src/ReadBarcode.h"
 #include "zxing-cpp/core/src/MultiFormatWriter.h"
